@@ -1,0 +1,2 @@
+# kb
+Public knowledge base
